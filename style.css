@@ -1,0 +1,65 @@
+
+body{
+	background-color: #DBDBDB;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2,p {
+	display: inline-block;
+	margin-left: 50px;
+	padding: 0;
+
+}
+
+h2{
+	float: left;
+	font-size: 18px;
+
+}
+
+p{
+	float: right;
+}
+
+
+.main{
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.pic1 {
+	text-align: center;
+	margin: 100px;
+}
+.pic1 img {
+	width: 500px;
+}
+
+.title1 p{
+	text-align: right;
+	
+}
+
+.pic2 {
+	text-align: center;
+	margin: 100px;
+
+}
+
+.pic2 img {
+	width: 500px;
+}
+
+.pic3 {
+	text-align: center;
+	margin: 100px;
+}
+
+
+.pic3 img {
+	width: 500px;
+}
